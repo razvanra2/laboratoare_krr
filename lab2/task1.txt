@@ -1,0 +1,5 @@
+A.
+SensorEvent and predictiveSensorEventFor some WatchDVD or 
+SensorEvent and predictiveSensorEventFor some ChooseOutfit
+B.
+Furniture and (usedFor some Clean or usedFor some WaterPlants)
